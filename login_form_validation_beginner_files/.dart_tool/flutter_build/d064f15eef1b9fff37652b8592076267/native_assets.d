@@ -1,0 +1,1 @@
+ C:\\Users\\FAWZI\\Desktop\\Bloc\ Practice\\flutter_bloc_tutorial\\login_form_validation_beginner_files\\.dart_tool\\flutter_build\\d064f15eef1b9fff37652b8592076267\\native_assets.yaml: 

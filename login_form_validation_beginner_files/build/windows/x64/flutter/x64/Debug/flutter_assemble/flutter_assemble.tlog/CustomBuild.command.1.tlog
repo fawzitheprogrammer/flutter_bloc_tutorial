@@ -1,0 +1,28 @@
+^C:\USERS\FAWZI\DESKTOP\BLOC PRACTICE\FLUTTER_BLOC_TUTORIAL\LOGIN_FORM_VALIDATION_BEGINNER_FILES\BUILD\WINDOWS\X64\CMAKEFILES\0023AEFF250E3F4684888B92DDF4F9FB\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter_windows_3.19.2-stable\flutter "PROJECT_DIR=C:\Users\FAWZI\Desktop\Bloc Practice\flutter_bloc_tutorial\login_form_validation_beginner_files" FLUTTER_ROOT=C:\src\flutter_windows_3.19.2-stable\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\FAWZI\Desktop\Bloc Practice\flutter_bloc_tutorial\login_form_validation_beginner_files\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\FAWZI\Desktop\Bloc Practice\flutter_bloc_tutorial\login_form_validation_beginner_files" "FLUTTER_TARGET=C:\Users\FAWZI\Desktop\Bloc Practice\flutter_bloc_tutorial\login_form_validation_beginner_files\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC8wNDgxN2M5OWM5ZmQ0OTU2ZjI3NTA1MjA0ZjdlMzQ0MzM1ODEwYWVkLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\FAWZI\Desktop\Bloc Practice\flutter_bloc_tutorial\login_form_validation_beginner_files\.dart_tool\package_config.json" C:/src/flutter_windows_3.19.2-stable/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\FAWZI\DESKTOP\BLOC PRACTICE\FLUTTER_BLOC_TUTORIAL\LOGIN_FORM_VALIDATION_BEGINNER_FILES\BUILD\WINDOWS\X64\CMAKEFILES\A2773F3485894946C0F911DCEF836C71\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\FAWZI\DESKTOP\BLOC PRACTICE\FLUTTER_BLOC_TUTORIAL\LOGIN_FORM_VALIDATION_BEGINNER_FILES\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/windows" "-BC:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64" --check-stamp-file "C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

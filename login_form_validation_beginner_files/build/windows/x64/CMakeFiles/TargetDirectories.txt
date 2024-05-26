@@ -1,0 +1,10 @@
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/CMakeFiles/INSTALL.dir
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/CMakeFiles/flutter_responsive_login_ui.dir
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir

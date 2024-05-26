@@ -1,0 +1,14 @@
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/Debug/data/flutter_assets/assets/images/signin_balls.png
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/Debug/data/flutter_assets/assets/svgs/f_logo.svg
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/Debug/data/flutter_assets/assets/svgs/g_logo.svg
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/FAWZI/Desktop/Bloc Practice/flutter_bloc_tutorial/login_form_validation_beginner_files/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
